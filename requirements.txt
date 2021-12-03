@@ -1,0 +1,8 @@
+advent-of-code-data
+requests
+pytest
+mypy
+black
+flake8
+pylint
+isort
